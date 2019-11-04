@@ -53,7 +53,7 @@ local PipelineTesting = {
     },
   ],
   trigger: {
-    branch: [ "master" ],
+    branch: [ "test" ],
   },
 };
 
