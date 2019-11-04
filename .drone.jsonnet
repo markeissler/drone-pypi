@@ -185,8 +185,8 @@ local PipelineNotifications = {
 
 [
   PipelineTesting,
-  PipelineBuild("linux", "amd64"),
-  PipelineBuild("linux", "arm64"),
-  PipelineBuild("linux", "arm"),
-  PipelineNotifications,
+//  PipelineBuild("linux", "amd64"),
+//  PipelineBuild("linux", "arm64"),
+//  PipelineBuild("linux", "arm"),
+//  PipelineNotifications,
 ]
