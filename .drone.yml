@@ -46,6 +46,7 @@ services:
 trigger:
   branch:
   - master
+  - test
 
 ---
 kind: pipeline
