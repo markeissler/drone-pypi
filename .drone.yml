@@ -124,6 +124,7 @@ steps:
 trigger:
   branch:
   - master
+  - test
 
 depends_on:
 - testing
